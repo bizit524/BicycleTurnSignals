@@ -16,7 +16,7 @@ int RightBlinkerState = 0;
 int ReverseLightState = 0;
 int runLightState     = 0;
 int reverseState      = 0;
-
+ 
 uint32_t AMBER = strip.Color(255, 130, 0);
 uint32_t RED   = strip.Color(255, 0, 0);
 uint32_t WHITE = strip.Color(255, 255, 255);
